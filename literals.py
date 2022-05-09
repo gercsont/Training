@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 print(5)
 print(5+10)
 print(3.14)
@@ -19,4 +16,4 @@ print(age)
 age = age-36
 print(age)
 print(type(age))
-print("ab" * 20)
+print(("ab" * 40) + ("CD" * 20))
