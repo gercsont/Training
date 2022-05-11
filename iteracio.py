@@ -5,5 +5,4 @@ for i in range(darab):
 
 for n in name.upper():
     print(n)
-    print(darab)
 

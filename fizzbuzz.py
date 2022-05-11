@@ -1,4 +1,4 @@
-for szam in range(1, 101):
+for szam in range(1, 1001):
     if szam % 15 == 0:
         print("FIZZ-BUZZ")
     elif szam % 5 == 0:
