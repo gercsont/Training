@@ -5,6 +5,8 @@ def is_not_negative(number):
     return number >= 0
 print(is_not_negative(-10))
 
+if __name__ == "__main__":
+    
 print ("""
 VÉGE
 """)
